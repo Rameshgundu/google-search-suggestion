@@ -1,0 +1,13 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  list-style-position: inside;
+  margin: 0px;
+  padding: 0px;
+}
+.arrow {
+  height: 20px;
+  padding: 0px;
+}
